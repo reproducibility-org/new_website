@@ -135,7 +135,7 @@
 - name: Del Verme Manuel
   image: default.jpg
   website:
-  description: TBD
+  description: 
   supervised_by: Doina Precup, Pierre-Luc Bacon
   scholar:
   level: phd
